@@ -1,1 +1,11 @@
-
+{
+    "id": 104,
+    "name": "NEWLEVELTEST",
+    "author": "szymus",
+    "verifier": "szymek",
+    "verification": "https://www.youtube.com/watch?v=wBvQ2MwON9s&t=814s",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+    ]
+}    
